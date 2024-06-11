@@ -13,10 +13,9 @@ Ensure you have R and RStudio installed on your machine. You will also need to i
 ### Installation
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/DS636-Lab-Assignments.git
-   cd Lab-Assignments
+   git clone https://github.com/yourusername/R-Programming/tree/main
    ```
-
+   
 2. Open RStudio and set the working directory to the cloned repository.
 
 3. Install the necessary R packages by running the following commands in R:
